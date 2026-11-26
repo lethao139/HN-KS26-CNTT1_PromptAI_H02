@@ -58,13 +58,15 @@ Kết quả đúng:
 {"loai_ve": "VEVIP", "ngay_choi": null, "nguoi_lon": 1, "tre_em": 0, "loai_tu": "nho", "ghi_chu": null}
 
 A - Action: Xử lý 3 tin nhắn sau:
-
+<tin_nhan>
 - TN1: Cho mình 2 vé người lớn và 1 vé trẻ em 8 tuổi loại vé buổi chiều ngày 20/12 nhé, thuê tủ nhỏ.
-
+</tin_nhan>
+<tin_nhan>
 - TN2: Đặt 3 vé cả ngày ngày 03/01/2027 ạ. Một người đang bó bột tay.
-
+</tin_nhan>
+<tin_nhan>
 - TN3: Vé VIP dịp nghỉ Tết còn không ạ? Nhóm em 4 người lớn, một bạn đi xe lăn, thuê tủ lớn.
-
+</tin_nhan>
 
 T - Tone: Trung lập, chính xác, không bình luận.
 
