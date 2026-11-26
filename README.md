@@ -1,1 +1,1 @@
-# HN-KS26-CNTT1_PromptAI_Hackathon_Pha1
+# HN-KS26-CNTT1_PromptAI_H02
