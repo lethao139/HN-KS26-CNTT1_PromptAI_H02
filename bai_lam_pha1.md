@@ -3,7 +3,7 @@
 - **Mã đề:** 07
 - **Họ tên:** Lê Minh Thảo
 - **Lớp:** CNTT1
-- **Link repository Pha1:**
+- **Link repository Pha1:** https://github.com/lethao139/HN-KS26-CNTT1_PromptAI_Hackathon/blob/main/bai_lam_pha1.md
 
 > Pha 1 (70 phút đầu, KHÔNG dùng AI). Viết xong, kéo thả file này vào repository Pha1 trước mốc giờ giám thị công bố.
 
